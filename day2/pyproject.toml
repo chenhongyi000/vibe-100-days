@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "tree-gen"
+version = "0.1.0"
+description = "A clean file system tree generator that respects .gitignore"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+dependencies = ["pathspec>=0.11.0"]
+
+[project.scripts]
+tree-gen = "src.tree_gen:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]

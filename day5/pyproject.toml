@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "wechat-md"
+version = "0.1.0"
+description = "Convert Markdown into WeChat-friendly inline HTML"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+wechat-md = "src.wechat_md:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
