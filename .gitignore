@@ -29,3 +29,11 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Writing drafts and generated publishing assets
+article.md
+article.html
+*.html
+planning/
+examples/
+001-*.md
