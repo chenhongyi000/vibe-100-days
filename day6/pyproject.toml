@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "img-slim"
+version = "0.1.0"
+description = "Batch image compressor for creator-friendly publishing workflows"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = ["Pillow>=10.0.0"]
+
+[project.scripts]
+img-slim = "src.img_slim:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
