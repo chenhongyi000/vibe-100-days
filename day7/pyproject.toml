@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "dupe-scout"
+version = "0.1.0"
+description = "Safely find duplicate files by size and SHA-256 hash"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = []
+
+[project.scripts]
+dupe-scout = "src.dupe_scout:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]

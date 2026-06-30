@@ -12,11 +12,12 @@
 | 4 | JSON 转 Excel 工具 | 待补充 | 待补充 | 已完成 |
 | 5 | wechat-md Markdown 转公众号排版工具 | [Markdown](day5/article.md) / [HTML](day5/article.html) | [day5](day5/) | 已完成 |
 | 6 | img-slim 批量图片压缩器 | [Markdown](day6/article.md) / [HTML](day6/article.html) | [day6](day6/) | 已完成 |
-| 7-100 | 后续 94 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
+| 7 | dupe-scout 文件夹重复文件扫描器 | [Markdown](day7/article.md) / [HTML](day7/article.html) | [day7](day7/) | 已完成 |
+| 8-100 | 后续 93 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
 
 ## 后续规划
 
-- Day 7-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
+- Day 8-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
 - 轻量选题勾选清单见 `planning/ideas.md`。
 
 ## 命名建议
