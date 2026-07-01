@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
+
+[project]
+name = "pdf-kit-lite"
+version = "0.1.0"
+description = "Local PDF split, merge, and info CLI"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
+dependencies = ["pypdf>=6.0.0"]
+
+[project.optional-dependencies]
+test = ["reportlab>=5.0.0", "pytest>=8.0.0"]
+
+[project.scripts]
+pdf-kit-lite = "src.pdf_kit_lite:main"
+
+[tool.setuptools.packages.find]
+include = ["src*"]
