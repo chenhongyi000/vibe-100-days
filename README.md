@@ -15,11 +15,12 @@
 | 7 | dupe-scout 文件夹重复文件扫描器 | [Markdown](day7/article.md) / [HTML](day7/article.html) | [day7](day7/) | 已完成 |
 | 8 | pdf-kit-lite PDF 拆分合并工具 | [Markdown](day8/article.md) / [HTML](day8/article.html) | [day8](day8/) | 已完成 |
 | 9 | excel-cleaner Excel 自动清洗器 | [Markdown](day9/article.md) / [HTML](day9/article.html) | [day9](day9/) | 已完成 |
-| 10-100 | 后续 91 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
+| 10 | csv-encoding-fixer CSV 编码修复工具 | [Markdown](day10/article.md) / [HTML](day10/article.html) | [day10](day10/) | 已完成 |
+| 11-100 | 后续 90 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
 
 ## 后续规划
 
-- Day 10-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
+- Day 11-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
 - 轻量选题勾选清单见 `planning/ideas.md`。
 
 ## 命名建议
