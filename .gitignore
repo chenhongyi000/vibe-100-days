@@ -29,6 +29,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+config.local.json
 
 # Writing drafts and generated publishing assets
 article.md

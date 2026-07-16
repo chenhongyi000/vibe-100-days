@@ -1,0 +1,10 @@
+[project]
+name = "wechat-article-pusher"
+version = "0.1.0"
+description = "Create WeChat Official Account drafts from local Markdown or HTML."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

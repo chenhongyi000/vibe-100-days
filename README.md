@@ -16,11 +16,22 @@
 | 8 | pdf-kit-lite PDF 拆分合并工具 | [Markdown](day8/article.md) / [HTML](day8/article.html) | [day8](day8/) | 已完成 |
 | 9 | excel-cleaner Excel 自动清洗器 | [Markdown](day9/article.md) / [HTML](day9/article.html) | [day9](day9/) | 已完成 |
 | 10 | csv-encoding-fixer CSV 编码修复工具 | [Markdown](day10/article.md) / [HTML](day10/article.html) | [day10](day10/) | 已完成 |
-| 11-100 | 后续 90 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
+| 11 | file-archiver 批量文件归档器 | [Markdown](day11/article.md) / [HTML](day11/article.html) | [day11](day11/) | 已完成 |
+| 12 | meeting-minutes-organizer 会议纪要整理器 | [Markdown](day12/article.md) / [HTML](day12/article.html) | [day12](day12/) | 已完成 |
+| 13 | todo-text-extractor TODO 文本提取器 | [Markdown](day13/article.md) / [HTML](day13/article.html) | [day13](day13/) | 已完成 |
+| 14 | screenshot-renamer 批量截图重命名器 | [Markdown](day14/article.md) / [HTML](day14/article.html) | [day14](day14/) | 已完成 |
+| 15 | invoice-info-extractor 发票信息提取器 | [Markdown](day15/article.md) / [HTML](day15/article.html) | [day15](day15/) | 已完成 |
+| 16 | contract-keyword-checker 合同关键词检查器 | [Markdown](day16/article.md) / [HTML](day16/article.html) | [day16](day16/) | 已完成 |
+| 17 | weekly-reporter 周报生成器 | [Markdown](day17/article.md) / [HTML](day17/article.html) | [day17](day17/) | 已完成 |
+| 18 | word-image-exporter Word 图片导出器 | [Markdown](day18/article.md) / [HTML](day18/article.html) | [day18](day18/) | 已完成 |
+| 19 | excel-diff 表格差异对比器 | [Markdown](day19/article.md) / [HTML](day19/article.html) | [day19](day19/) | 已完成 |
+| 20 | filename-normalizer 文件名批量规范器 | [Markdown](day20/article.md) / [HTML](day20/article.html) | [day20](day20/) | 已完成 |
+| 21 | wechat-article-pusher 公众号文章自动推送工具 | [Markdown](day21/article.md) / [HTML](day21/article.html) | [day21](day21/) | 已完成 |
+| 22-100 | 后续 79 天选题规划 | [内容日历](planning/content-calendar.md) | [选题池](planning/ideas.md) | 待启动 |
 
 ## 后续规划
 
-- Day 11-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
+- Day 22-100 的后续项目清单、公众号标题和推文摘要见 `planning/content-calendar.md`。
 - 轻量选题勾选清单见 `planning/ideas.md`。
 
 ## 命名建议
